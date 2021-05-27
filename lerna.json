@@ -1,0 +1,10 @@
+{
+  "packages": [
+    "web-modules/*",
+    "server-modules/*"
+  ],
+  "scripts": {
+    "start": "lerna start"
+  },
+  "version": "0.0.0"
+}
